@@ -1,0 +1,10 @@
+
+<input type="number"#ID><br>
+<input type="button" value="כניסה" (click)="entry(ID.value)" class="entry">
+<!-- //בלחיצה על כניסה מועברים לדף תצוגת המוצרים -->
+<br>
+<p>או</p>
+<!-- //בלחיצה על הרשמה מועברים לטופס ההרשמה -->
+<a routerLink="/harshama"routerLinkActive="active"class="login">הרשמה</a>
+<br>
+<router-outlet></router-outlet>

@@ -1,0 +1,15 @@
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\bin\Debug\net5.0\BLL.deps.json
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\bin\Debug\net5.0\BLL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\bin\Debug\net5.0\ref\BLL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\bin\Debug\net5.0\BLL.pdb
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\bin\Debug\net5.0\DAL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\bin\Debug\net5.0\DAL.pdb
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\ref\BLL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\BLL\obj\Debug\net5.0\BLL.pdb

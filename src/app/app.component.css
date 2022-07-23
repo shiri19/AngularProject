@@ -1,0 +1,16 @@
+.allpage{
+    background-color: darkgrey;
+    height: 952px;
+    width: 1908px;
+}
+header{
+    height: 100px;
+    background-color: darkred;
+    color: darkgray;
+}
+.myLink{
+    font-size:40px;
+    margin:100px;
+   text-decoration: none;
+   color: darkgray;  
+}

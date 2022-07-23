@@ -1,0 +1,28 @@
+<h3>הוספת מוצר חדש</h3>
+<div>
+<form #myForm="ngForm" (ngSubmit)="onSubmit()">
+  <br>
+<label>קוד מוצר</label>
+<br>
+<input type="number"[(ngModel)]="newProduct.productCode"id="prodId"name="prodId" placeholder="קוד מוצר">
+<br>
+
+<input type="text"[(ngModel)]="newProduct.productName"id="prodName"name="prodName" placeholder="שם מוצר">
+<br>
+
+<input type="text"[(ngModel)]="newProduct. productDescription"id="desc"name="desc" placeholder="תיאור">
+<br>
+<label>קוד קטגוריה</label>
+<br>
+<input type="number"[(ngModel)]="newProduct.categoryCode"id="category"name="category">
+<br>
+<label>מחיר</label>
+<br>
+<input type="number"[(ngModel)]="newProduct.cost"id="privce"name="price">
+<br>
+
+<input type="text"[(ngModel)]="newProduct.picture"id="pic"name="pic" placeholder="תמונה">
+
+  <input type="submit" value="סיום"> 
+</form>
+</div>

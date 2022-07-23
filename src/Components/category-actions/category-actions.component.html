@@ -1,0 +1,9 @@
+<br>
+<br>
+<div *ngFor="let c of listCategory" class="divCls">
+  <p>קוד קטגוריה:{{c.categoryCode}}</p>
+  <p>שם קטגוריה:{{c.categoryName}}</p>
+  <input type="button" value="מחיקה"(click)="delete(c.categoryCode)">
+  <input type="button" value="עריכה"(click)="update(c)">
+</div>
+<app-add-category *ngIf="categoryToEdit!=null" [edit-item]="categoryToEdit" (reset-update)="resetUpdate($event)"></app-add-category>

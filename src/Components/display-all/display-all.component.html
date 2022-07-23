@@ -1,0 +1,16 @@
+<br>
+<br>
+<div *ngFor="let p of products" class="wrap">
+<img src={{p.picture}} class="pic">
+<p class="detail">{{p.productName}}</p>
+<p class="detail">{{p.cost}}</p>
+<input type="button" value="פרטים והזמנה" (click)="getDeatailsPage(p)" class="moreDeatails">
+<p></p>
+</div>
+<br><br>
+<router-outlet></router-outlet>
+
+ 
+
+
+

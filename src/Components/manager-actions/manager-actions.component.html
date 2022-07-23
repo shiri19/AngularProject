@@ -1,0 +1,13 @@
+<br>
+<br>
+<br>
+<div *ngFor="let p of productsList" class="prod">
+  <p>קוד מוצר:{{p.productCode}}</p>
+  <p>שם מוצר:{{p.productName}}</p>
+  <p>תיאור מוצר:{{p.productDescription}}</p>
+  <p>קוד קטגוריה:{{p.categoryCode}}</p>
+  <p>מחיר:{{p.cost}}</p>
+  <input type="button"value="מחק"(click)="delete(p.productCode)">
+  <input type="button"value="עריכה"(click)="update(p)">
+</div>
+<app-add-prod *ngIf="prodToEdit!=null" [edit-item]="prodToEdit" (reset-update)="resetUpdate($event)"></app-add-prod>

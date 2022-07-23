@@ -1,0 +1,34 @@
+
+.wrap{
+    height: 415px;
+    width: 300px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    display: inline-block;
+    border: 2px black solid;
+}
+.pic{
+    height: 300px;
+    width: 300px;
+}
+.detail{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;       
+}
+.moreDeatails{
+  display: block;
+  background-color:darkred;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  width: 250px;
+  margin-bottom: 0px;
+}

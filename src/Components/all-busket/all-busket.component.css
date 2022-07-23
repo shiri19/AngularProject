@@ -1,0 +1,32 @@
+.continu{
+    text-align: center;
+    text-decoration: none;
+    color:darkred;
+    font-size: 30px;
+    margin-left: 45%;
+}
+.finish{
+    display: block;
+    background-color: darkred;
+    border:2px solid darkgray;
+    color:darkgrey;
+    padding: 20px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius:30px;
+    margin-top:50px;
+    margin-left: 45%;
+    cursor: pointer;
+}
+.buttons{
+    display: inline-block;
+}
+hr{
+    color:black;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}

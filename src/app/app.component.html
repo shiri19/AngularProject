@@ -1,0 +1,12 @@
+<div class="allpage">
+<header>
+<!-- צפיה בסל הקניות -->
+<a routerLink="/buscket"routerLinkActive="active" class="myLink">🛒</a>
+<!-- העברה לדף הבית שם לבחור באפשרות כניסה/הרשמה -->
+<a routerLink="/home" routerLinkActive="active"class="myLink">כניסה</a> 
+<!-- שמות הקטגוריות -->
+<a *ngFor="let c of categories" class="myLink">{{c.categoryName}}</a>
+</header>
+<!-- תגית המאפשרת הכנסה של קומפוננטות לתוך הקומפוננטה הנוכחית -->
+<router-outlet></router-outlet>
+</div>

@@ -1,0 +1,35 @@
+.pic1{
+    height: 600px;
+    width: 700px;
+    
+}
+.wrapPic{
+    float: right;
+     height: 600px;
+      width: 700px;
+   
+}
+.wrapDeatails{
+    float:left;    
+}
+.prodName{
+    font-size: 60px;
+}
+.prodDesc{
+    font-size: 40px;
+}
+.price{
+    font-size: 30px;
+}
+.b{
+    display: block; 
+    background-color:brown;
+    border: none;
+    color: white;
+    padding: 30px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin-left:200px;
+}

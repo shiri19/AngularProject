@@ -1,0 +1,14 @@
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\bin\Debug\net5.0\DAL.deps.json
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\bin\Debug\net5.0\DAL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\bin\Debug\net5.0\ref\DAL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\bin\Debug\net5.0\DAL.pdb
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\ref\DAL.dll
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.pdb
+I:\שירה דויטש\פרויקט אנגולר\DAL\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache

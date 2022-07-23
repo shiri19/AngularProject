@@ -1,0 +1,18 @@
+.item{
+    background-color: darkred;
+    border:2px solid darkgray;
+    color:darkgrey;
+    padding: 12px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-top:50px;
+     
+}
+.title{
+text-align: center;
+color:darkred;
+font-size: 50px;
+}
+    

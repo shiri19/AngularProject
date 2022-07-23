@@ -1,0 +1,15 @@
+<br>
+
+<div *ngFor="let b of busket">
+  <app-item-in-busket [myItem]="b"></app-item-in-busket>
+  <div class="buttons">
+    <input type="button" value="+"(click)="add(b)">
+    <input type="button" value="-"(click)="reduce(b)">
+    <input type="button" value="🗑"(click)="remove(b.id,b)">
+  </div>
+ <hr> 
+</div>
+<br>
+<h3>סה"כ{{busektserv.finalPrice | currency :'ILS'}}</h3>
+<a routerLink="/all" routerLinkActive="active" class="continu">המשך קניה>></a>
+<input type="button" value="סיום קניה" (click)="endShoping()"class="finish">

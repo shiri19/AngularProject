@@ -1,0 +1,10 @@
+.manPic{
+    height: 100px;
+    width: 200px;
+}
+.prod{
+    border:3px solid black;
+    display: inline-block;
+    background-color: darkred;
+    color: white;
+}

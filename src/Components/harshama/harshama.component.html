@@ -1,0 +1,30 @@
+<div>
+<form #myForm="ngForm" (ngSubmit)="add()">
+ <label>מספר זהות</label> 
+ <br>
+ <input type="number"id=ID name="ID"[(ngModel)]="newUser.custId">
+ <br>
+ <label>סיסמה</label>
+ <br> 
+ <input type="text"id=pass name="pass"[(ngModel)]="newUser.CustPassword">
+ <br>
+ <label>שם פרטי</label> 
+ <br>
+ <input type="text"id=fname name="fname"[(ngModel)]="newUser.firstName">
+ <br>
+ <label>שם משפחה</label>
+ <br> 
+ <input type="text"id=lname name="lname"[(ngModel)]="newUser.lastName">
+ <br>
+ <label>כתובת</label>
+ <br> 
+ <input type="text"id=adress name="adress"[(ngModel)]="newUser.custAddress">
+ <br>
+ <label>טלפון</label> 
+ <br>
+ <input type="text"id=fname name="fname"[(ngModel)]="newUser.custPhone">
+ <br>
+<input type="submit" value="הרשמה">
+</form>
+</div> 
+         

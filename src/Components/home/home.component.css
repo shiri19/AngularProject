@@ -1,0 +1,45 @@
+input[type=number] {
+    width: 200px;
+    padding: 20px 30px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    border: 3px solid darkRed;
+    box-sizing: border-box;
+    margin-left: 45%;
+    
+}
+.entry{
+    display: block;
+    background-color: darkred;
+    border:2px solid darkgray;
+    color:darkgrey;
+    padding: 20px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius:30px;
+    margin-top:50px;
+    margin-left: 45%;
+    cursor: pointer;
+}
+.login{
+    display: block;
+    background-color: darkred;
+    border:2px solid darkgray;
+    color:darkgrey;
+    padding: 20px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius:30px;
+    margin-top:50px;
+    margin-left: 45%;
+}
+p{
+    font-size:40px;
+    text-align:center;
+    font-family: 700px;
+}
